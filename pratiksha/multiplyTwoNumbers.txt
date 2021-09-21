@@ -1,0 +1,6 @@
+
+  function mult(a,b){
+    let result=a*b;
+    console.log(result);
+  }
+mult(2,3);
