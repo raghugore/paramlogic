@@ -3,5 +3,6 @@
     let result=a*b;
     console.log(result);
    this is new line
+   this is another line
   }
 mult(2,3);
