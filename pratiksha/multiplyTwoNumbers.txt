@@ -2,5 +2,6 @@
   function mult(a,b){
     let result=a*b;
     console.log(result);
+this is changed
   }
 mult(2,3);
