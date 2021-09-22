@@ -1,13 +1,6 @@
 #include<stdio.h>
 int main()
 {
- int count=1;
- printf("\nFollowing are the Numbers from 1 to 100");
- while(counter<100)
- {
-   printf("%d\n",count);
-   counter++;
-   
- }
+
  return 0;
 }
