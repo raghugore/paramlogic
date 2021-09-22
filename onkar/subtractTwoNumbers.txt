@@ -1,7 +1,8 @@
 def subtrackTwoNumbers(a,b):
-    return c-d;
+    return b-a;
 
-c=int(input())
-d=int(input())
+b=int(input())
+a=int(input())
+>>>>>>> Stashed changes
 result = subtrackTwoNumbers(a,b)
 print(result)
