@@ -1,6 +1,6 @@
 //Add Two Numbers
 
-let d = 22;
+let a = 22;
 let b = 4;
 
 function add(num3, num2) {
