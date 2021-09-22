@@ -1,7 +1,8 @@
 def subtrackTwoNumbers(a,b):
-    return d-e;
-
-bd=int(input())
-ef=int(input())
-result = subtrackTwoNumbers(e,d)
+    return a-b;
+a=int(input())
+b=int(input()) #this line create conflict (assignment)
+result = subtrackTwoNumbers(a,b)
 print(result)
+
+
