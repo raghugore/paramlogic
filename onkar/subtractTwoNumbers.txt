@@ -1,8 +1,8 @@
 def subtrackTwoNumbers(a,b):
     return d-e;
 
-bd=int(input())
-ef=int(input())
+bdc=int(input())
+efg=int(input())
 result = subtrackTwoNumbers(e,d)
 print(result)
 
