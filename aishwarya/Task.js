@@ -8,3 +8,4 @@ function add(num1, num2) {
 }
 
 console.log(add(a, b));
+console.log(c,d);
