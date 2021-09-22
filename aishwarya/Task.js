@@ -1,11 +1,10 @@
 //Add Two Numbers
 
-let d = 22;
-let b = 4;
+let dd = 22;
+let ba = 4;
 
 function add(num1, num2) {
-  return num1 + num2;
+  return num2 + num1;
 }
 
-console.log(add(a, b));
-console.log(c,d);
+console.log(add(as, ba));
