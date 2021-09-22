@@ -1,9 +1,9 @@
 //Add Two Numbers
 
-let a = 22;
-let b = 4;
+let ad = 22;
+let bc = 4;
 
-function add(num3, num2) {
+function add(num31, num2) {
   return num3 + num2;
 }
 
