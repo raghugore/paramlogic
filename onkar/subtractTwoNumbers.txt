@@ -1,7 +1,7 @@
 def subtrackTwoNumbers(a,b):
-    return d-e;
+    return a-b;
 
-d=int(input())
-e=int(input())
+a=int(input())
+b=int(input())
 result = subtrackTwoNumbers(a,b)
 print(result)
