@@ -1,5 +1,5 @@
 def subtrackTwoNumbers(a,b):
-    return d-e;
+    return a-b;
 
 bdc=int(input())
 efg=int(input())
